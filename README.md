@@ -20,17 +20,17 @@ Ensure the following are installed on the system:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/receipt_processor.git
-   cd receipt-processor
+   cd receipt_processor
    ```
 
 2. Build the Docker image:
    ```bash
-   docker build -t receipt-processor .
+   docker build -t receipt_processor .
    ```
 
 3. Run the Docker container:
    ```bash
-   docker run -p 8080:8080 receipt-processor
+   docker run -p 8080:8080 receipt_processor
    ```
 
 The service will now be running at `http://localhost:8080`.
