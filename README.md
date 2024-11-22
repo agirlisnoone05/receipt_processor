@@ -94,7 +94,7 @@ curl http://localhost:8080/receipts/10333a78-3871-4cfb-a9a8-a3c897445df9/points
 **Example Response**:
 ```json
 {
-    "points": 23
+    "points": 28
 }
 ```
 
