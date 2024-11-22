@@ -19,7 +19,7 @@ Ensure the following are installed on the system:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/receipt_processor.git
+   git clone https://github.com/agirlisnoone05/receipt_processor.git
    cd receipt_processor
    ```
 
