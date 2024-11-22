@@ -77,7 +77,7 @@ curl -X POST http://localhost:8080/receipts/process -H "Content-Type: applicatio
 **Example Response**:
 ```json
 {
-    "id": "3482536161526637850"
+    "id": "10333a78-3871-4cfb-a9a8-a3c897445df9"
 }
 ```
 
@@ -88,7 +88,7 @@ curl -X POST http://localhost:8080/receipts/process -H "Content-Type: applicatio
 
 **Example Request**:
 ```bash
-curl http://localhost:8080/receipts/3482536161526637850/points
+curl http://localhost:8080/receipts/10333a78-3871-4cfb-a9a8-a3c897445df9/points
 ```
 
 **Example Response**:
